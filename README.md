@@ -57,3 +57,11 @@ Contributors
 
 * Mark Galloway
 * Abram Hindle
+* Di Zhang
+* Oleksii Shevchenko
+
+Abram Hindle, 2014, - WebSocketsExamples https://github.com/abramhindle/WebSocketsExamples/blob/master/chat.py
+
+Mozilla Developer Network, 2016, - Drawing shapes with canvas https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes
+
+Paul Irish, 2009, - Random Hex Color Code Generator in JavaScript https://www.paulirish.com/2009/random-hex-color-code-snippets/
